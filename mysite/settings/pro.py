@@ -6,7 +6,7 @@ ADMINS = (
     ('admin', 'admin@admin.com'),
 )
 
-ALLOWED_HOSTS = ['educaproject.com', 'www.educaproject.com']
+ALLOWED_HOSTS = ['mysiteproject.com', 'www.mysiteproject.com']
 
 DATABASES = {
     'default': {
